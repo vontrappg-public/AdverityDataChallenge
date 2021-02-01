@@ -11,10 +11,7 @@ The notebook is split into three sections:
 3. Finding outliers
 
 Data challenge has been completed in a single Jupyter notebook file: AdveritfyDataChallenge.ipynb
-Data sources (while unusual) have been included in directory for ease:
-For step 1
-- Raw data: rawCtrData.csv
-For steps 2 and 3
+Cleaned data for steps 2 and 3 has (while unusual) been included in directory for ease:
 - Prepared data: ctrCleanData.csv
 
 ## Dependencies 

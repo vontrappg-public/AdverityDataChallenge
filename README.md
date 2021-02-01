@@ -1,6 +1,22 @@
 # AdverityDataChallenge
 Adverity Data Challenge
 
+This data challenge had two goals:
+1. Aggregate click data into hour time bins, and calculate the click-through-rate (CTR)
+2. Implement a simple outlier detection using a moving average
+
+The notebook is split into three sections:
+1. Loading, cleaning, inspecting data
+2. Aggregating and calculating CTR
+3. Finding outliers
+
+Data challenge has been completed in a single Jupyter notebook file: AdveritfyDataChallenge.ipynb
+Data sources (while unusual) have been included in directory for ease:
+For step 1
+- Raw data: rawCtrData.csv
+For steps 2 and 3
+- Prepared data: ctrCleanData.csv
+
 ## Dependencies 
 Dependencies are specified in the requirements.txt file, however this file was generated from the Conda environment that I was using. I inculuded it to be thorough. 
 
